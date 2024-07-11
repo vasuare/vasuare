@@ -42,7 +42,7 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">Languages and Tools</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=r,py,latex,html,css,js,vscode,github&perline=10"  />
 </p>
@@ -59,12 +59,12 @@
 <br />-->
 
 <!--Github stats Table--> 
-<h2 align="center"> :chart_with_upwards_trend: Gɪᴛʜᴜʙ Sᴛᴀᴛs :chart_with_upwards_trend:</h2>
+<h2 align="center"> :chart_with_upwards_trend: Gidhub Stats :chart_with_upwards_trend:</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Github Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/vasuare">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasuare&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
@@ -72,7 +72,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/vasuare">
           <img align="center" src="https://streak-stats.demolab.com?user=vasuare&theme=nightowl" alt="Streak Stats" />
@@ -103,7 +103,7 @@
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center"> :clipboard: Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ :clipboard:</h2>
+<h2 align="center"> :clipboard: Contribution Graph :clipboard:</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasuare&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
@@ -123,7 +123,7 @@
 
 <!--Contact Section--> 
 
-<h2 align="center"> :iphone: Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ :iphone: </h2>
+<h2 align="center"> :iphone: Connect With Me :iphone: </h2>
 <div align="center">
   
  <a href="https://www.linkedin.com/in/veimar-suarez-84ba32297/" target="_blank">
