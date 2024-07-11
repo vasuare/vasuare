@@ -26,7 +26,6 @@
 
 
 
-- You can download my CV here: [document.pdf](https://github.com/user-attachments/files/16169641/document.pdf)
 - I am committed to continuous learning and personal growth.
 - I’m currently working on my Portfolio Website
 - Driven by a curiosity to explore and master emerging technologies.
